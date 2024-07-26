@@ -1,5 +1,6 @@
 Project Overview
 Scotchy is a new startup that provides a motorcycle taxi and food delivery service. The company's mission is to provide a safe, reliable, and affordable transportation option for its customers. Scotchy's drivers are all checked and insured, and the company's vehicles are equipped with GPS tracking and other safety features. Scotchy also offers a variety of payment options, including cash, credit card
+
 Features:
 Scotchy's features include:
 •	Ride-hailing: Users can request a motorcycle taxi to take them to their destination.
