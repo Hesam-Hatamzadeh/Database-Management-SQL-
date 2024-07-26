@@ -1,4 +1,4 @@
-# Building a Relational Database from scratch for food delivery service
+# Building a Relational Database model from scratch for food delivery service
 
 ## Project Overview
 
