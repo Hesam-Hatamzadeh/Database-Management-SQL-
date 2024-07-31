@@ -18,4 +18,5 @@ Target Market
 Scotchy's target market is people who live in urban areas and need a safe, reliable, and affordable transportation option. The company's target market also includes people who want to order food from their favorite restaurants and have it delivered to their home or office.
 
 ## Marketing Plan
-Scotchy plans to market its service through a variety of channels, including online advertising, social media, and word-of-mouth. The company will also partner with local businesses to offer discounts and promotions to its customers.
+Scotchy plans to market its service through a variety of channels, including online advertising, social media, and word-of-mouth. 
+The company will also partner with local businesses to offer discounts and promotions to its customers.   
